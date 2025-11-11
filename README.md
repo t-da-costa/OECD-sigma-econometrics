@@ -1,0 +1,4 @@
+- Open em-intensity.r
+- Change the working directory and file paths
+- Unzip the .zip files
+- It should work.
